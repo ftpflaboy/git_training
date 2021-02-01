@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Added text to second line.
 =======
 Updating for advance merging.
->>>>>>> change_alice
+>>>>>>> change_alice 
 Updating details in order to commit merge.
+=======
+Hi! I'm Alice. I'm a file someone added to this repository a while ago. Remotely.
+>>>>>>> 7be968a3043f168ae5d3792e8f60653672936256
