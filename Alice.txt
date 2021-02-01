@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Added text to second line.
 =======
@@ -9,3 +10,6 @@ Updating details in order to commit merge.1
 =======
 Hi! I'm Alice. I'm a file someone added to this repository a while ago. Remotely.
 >>>>>>> 7be968a3043f168ae5d3792e8f60653672936256
+=======
+Hi! I'm Alice. I'm a file someone added to this repository a while ago. Remotely. Again.
+>>>>>>> 9cd5fee980d60c0c84ef286ea7a1e9f1653166ad
